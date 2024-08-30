@@ -9,3 +9,4 @@ prom/prometheus:latest
 grafana/grafana
 haskell:latest
 lscr.io/linuxserver/calibre-web:latest
+debian:bookworm-slim
