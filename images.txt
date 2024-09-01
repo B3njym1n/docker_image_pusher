@@ -10,3 +10,4 @@ grafana/grafana
 haskell:latest
 lscr.io/linuxserver/calibre-web:latest
 debian:bookworm-slim
+lscr.io/linuxserver/calibre-web:latest 
