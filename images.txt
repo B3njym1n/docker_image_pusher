@@ -12,3 +12,4 @@ lscr.io/linuxserver/calibre-web:latest
 debian:bookworm-slim
 lscr.io/linuxserver/calibre-web:latest 
 privatebin/nginx-fpm-alpine
+docker.io/postgres
